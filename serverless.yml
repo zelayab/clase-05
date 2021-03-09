@@ -1,0 +1,18 @@
+frameworkVersion: ">=1.78.1"
+service: incluit
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: dev
+  tags:
+    project: incluit
+
+resources:
+  - ${file(resources/tables.yml)}
+
+functions:
+  - ${file(functions.yml)}

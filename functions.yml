@@ -1,0 +1,22 @@
+getUserById:
+  handler: query/index.getUserById
+  events:
+    - http:
+        path: users
+        method: get
+
+createUser:
+  handler: insert/index.createUser
+  events:
+    - http:
+        path: user
+        method: post
+        cors: true
+
+validateAndCreate:
+  handler: validate/index.validateAndCreate
+  events:
+    - http:
+        path: validate
+        method: post
+        cors: true
