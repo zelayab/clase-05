@@ -1,3 +1,5 @@
+Sofi Galfre
+
 ### Tomas Barcojo
 
 <h1 align = "center" >Hola!</h1>
