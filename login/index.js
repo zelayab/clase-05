@@ -1,9 +1,7 @@
 const jwt = require('jwt-simple');
 
 async function createToken(event, context) {
-    const token = jwt.encode({
-        userId: 'pepe'
-    }, 'secret1');
+
 
     return {
         statusCode: 200,
