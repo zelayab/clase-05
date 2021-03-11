@@ -1,3 +1,6 @@
+# Jorge Laquis
+# PD: Saludos a Pepe!
+
 Sofi Galfre
 
 ### Tomas Barcojo
