@@ -1,10 +1,10 @@
 ## Mando saludos a
-### Alan Berdinelli
-### @aeberdinelli
+### Elias Moura
+### @eliasmoura
 ### 
 ### de parte de 
-### Bernardo Zelaya
-### @zelayab
+### Elias Moura
+### @eliasmoura
 ### 
 ### Todos amamos el regimen de jeff bezos
 ### con amor, niñitx.
