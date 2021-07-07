@@ -1,6 +1,6 @@
 ## Mando saludos a
-### Alan Berdinelli
-### @aeberdinelli
+### Jonathan Castillo
+### @Dev-Gix
 ### 
 ### de parte de 
 ### Bernardo Zelaya
@@ -9,11 +9,4 @@
 ### Todos amamos el regimen de jeff bezos
 ### con amor, niñitx.
 ##
-## Mando saludos a
-### Alan Berdinelli
-### @aeberdinelli
-### 
-### de parte de 
-### Jonathan Castillo
-### @Dev-Gix
 #
