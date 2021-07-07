@@ -3,8 +3,8 @@
 ### @aeberdinelli
 ### 
 ### de parte de 
-### Bernardo Zelaya
-### @zelayab
+### Jonathan Castillo
+### @Dev-Gix
 ### 
 ### Todos amamos el regimen de jeff bezos
 ### con amor, niñitx.
